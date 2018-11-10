@@ -1,4 +1,3 @@
-#Importa a biblioteca do modelo Naive Bayes Gaussiano
 from sklearn.naive_bayes import GaussianNB
 import numpy as np
 
